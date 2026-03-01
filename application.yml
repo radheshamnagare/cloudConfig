@@ -16,4 +16,4 @@ microservice:
   order-service:
     endpoints:
       endpoint:
-        uri: http://ORDER-SERVICE/order/process   
+        uri: http://ORDER-SERVICE/order/bookOrder   
